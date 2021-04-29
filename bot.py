@@ -1,4 +1,4 @@
-from pyrogram import Client, Filters
+from pyrogram import Client, filters
 import logging, os
 from telegram import InlineQueryResultArticle, ParseMode, \
     InputTextMessageContent
