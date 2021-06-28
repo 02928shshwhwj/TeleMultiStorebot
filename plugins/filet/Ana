@@ -1,0 +1,132 @@
+#EXTM3U
+#EXTINF:0,مباريات1
+http://dst.mtn.net.sy:1935/5d91fa3cbf15791/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,مباريات2
+http://dst.mtn.net.sy:1935/5ebf294c6d93626/myStream.stream/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,مباريات3
+http://dst.mtn.net.sy:1935/5f3cfe784030416/myStream.stream/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,مباريات4
+http://dst.mtn.net.sy:1935/5f843d5bd815299/myStream.stream/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,مباريات5
+http://dst.mtn.net.sy:1935/5f843d2ac0e8c13/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,مباريات6
+http://dst.mtn.net.sy:1935/5d5a8190120d985/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,مباريات8
+http://dst.mtn.net.sy:1935/60b5fe27c32c351/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,مباريات7
+http://dst.mtn.net.sy:1935/60b5fe15bd49671/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Ksa Sport 2
+http://dst.mtn.net.sy:1935/5f1ac4ad1e9c566/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,OSN kids
+http://dst.mtn.net.sy:1935/59a7b4133a2fd61/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,MBC4
+http://dst.mtn.net.sy:1935/5f1ac5b339d9f100/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,MBC2
+http://dst.mtn.net.sy:1935/599d303b80a2291/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Sama
+http://dst.mtn.net.sy:1935/59c1142f2591726/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,OSN Living
+http://dst.mtn.net.sy:1935/5f1991b63330465/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Tv5Monde
+http://dst.mtn.net.sy:1935/5f1ac55aead2753/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Osn Discovery
+http://dst.mtn.net.sy:1935/5f1ac44e5856927/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Osn Disney
+http://dst.mtn.net.sy:1935/5f1ac415769b870/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Osn Yahla Cinema
+http://dst.mtn.net.sy:1935/5f1992206b27447/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Ksa sport 1
+http://dst.mtn.net.sy:1935/5f1ac4c0724f013/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Baby channel
+http://dst.mtn.net.sy:1935/5f1ac4dab558945/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Lana
+http://dst.mtn.net.sy:1935/59a7b32bbf6b992/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Syria Al Ekhbareyah
+http://dst.mtn.net.sy:1935/5f1ac570e17f979/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,On Drama
+http://dst.mtn.net.sy:1935/5f1ac54330c2e64/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,AD sport 2
+http://dst.mtn.net.sy:1935/5f1ac527d382042/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Osn Nickelodeon
+http://dst.mtn.net.sy:1935/5f21276ef297744/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Ad sport 1
+http://dst.mtn.net.sy:1935/5f1ac591efe7881/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Ksa Sport 3
+http://dst.mtn.net.sy:1935/5f1ac5814d3f640/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Syria Tarbawiya
+http://dst.mtn.net.sy:1935/59929806020c766/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Mbc action
+http://dst.mtn.net.sy:1935/5c7518f08e9b836/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Majid Kids
+http://dst.mtn.net.sy:1935/59905c869b9d515/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,OSN ya hala
+http://dst.mtn.net.sy:1935/59a7b43586e1698/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,AlKass 2 HD
+http://dst.mtn.net.sy:1935/5c5989db0a3a074/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Syria Drama
+http://dst.mtn.net.sy:1935/5a86d8d5e350b11/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,karamesh
+http://dst.mtn.net.sy:1935/5c33373f8c73484/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Lana plas
+http://dst.mtn.net.sy:1935/5c8f98cff414050/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,KSA 4
+http://dst.mtn.net.sy:1935/599d301fee65a68/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Spaectoon
+http://dst.mtn.net.sy:1935/5c40656abe39434/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Mbc3
+http://dst.mtn.net.sy:1935/5c3dcdca56c3293/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Mtv lebanon
+http://dst.mtn.net.sy:1935/5c57ec4475d8538/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Abu dabi Drama
+http://dst.mtn.net.sy:1935/5c581be4bb22c44/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Rt Arabic
+http://dst.mtn.net.sy:1935/5c769a0b4062b75/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Mbc Bollywood
+http://dst.mtn.net.sy:1935/5afc1eaa3fb2d10/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,OSN First Series
+http://dst.mtn.net.sy:1935/59a7b2fdbc36b88/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Ro2ya
+http://dst.mtn.net.sy:1935/5c769d4d397e819/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Al mjed
+http://dst.mtn.net.sy:1935/5c769a715815d48/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Aljaded
+http://dst.mtn.net.sy:1935/5c76a1358452981/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Rotana Cinama
+http://dst.mtn.net.sy:1935/5c769dc43462118/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Aghanj aghani
+http://dst.mtn.net.sy:1935/5c769d8b8ea1559/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Cartoon  Network
+http://dst.mtn.net.sy:1935/59a7b382db03084/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Zee Aflam
+http://dst.mtn.net.sy:1935/59a7b3a6f238494/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Nour el Sham
+http://dst.mtn.net.sy:1935/5a86dc4e251a272/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Dubai TV
+http://dst.mtn.net.sy:1935/59a7f2deb72b996/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Rotana Drama
+http://dst.mtn.net.sy:1935/59a7b3e02340924/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,OSN Movies Action
+http://dst.mtn.net.sy:1935/59b7c5ccec97b82/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Zee Alwan
+http://dst.mtn.net.sy:1935/59b7c57ba7fda60/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Syria TV
+http://dst.mtn.net.sy:1935/59a409158fff382/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,LBC HD
+http://dst.mtn.net.sy:1935/5b2a414908b7162/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Mbc Drama
+http://dst.mtn.net.sy:1935/599448753447a43/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,NAT Geographic
+http://dst.mtn.net.sy:1935/5b2a43c25a3c731/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Mbc 1
+http://dst.mtn.net.sy:1935/59afc8adc301977/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,LDC
+http://dst.mtn.net.sy:1935/5b2a46461078368/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,MBC masr
+http://dst.mtn.net.sy:1935/5c5989a831e8383/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,OTV
+http://dst.mtn.net.sy:1935/5c76a1b9b43dd50/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,Al Mayadeen
+http://dst.mtn.net.sy:1935/5992a09d7390f54/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,MBC Iraq
+http://dst.mtn.net.sy:1935/599b47463017985/smil:myStream.smil/playlist.m3u8?t=5f5e1973321a2
+#EXTINF:0,
